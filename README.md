@@ -1,6 +1,6 @@
 # Bankist Project - Udemy JavaScript Course
 
-![Bankist Project](bankist-project.png)
+![Bankist Project](img/bankist-project.png)
 
 ## Description
 
